@@ -1,0 +1,2 @@
+model_checkpoint_path: "datasetcp_pos_succues.ckpt"
+all_model_checkpoint_paths: "datasetcp_pos_succues.ckpt"
